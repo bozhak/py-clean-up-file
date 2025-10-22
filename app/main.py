@@ -1,5 +1,4 @@
 import os
-from typing import Self
 from types import TracebackType
 
 
